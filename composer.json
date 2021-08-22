@@ -1,11 +1,12 @@
 {
-  "name": "mutoucloud/sdk",
+  "name": "zytmutoucloud/sdk",
   "description": "木头云SDK",
   "require": {
     "guzzlehttp/guzzle": "6.*",
     "psr/log": "^1.1",
     "pimple/pimple": "^3.0"
   },
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "MuTouCloud\\Sdk\\": "./src"
