@@ -1,5 +1,5 @@
 {
-  "name": "MuTouCloud/Sdk",
+  "name": "mutoucloud/sdk",
   "description": "木头云SDK",
   "require": {
     "guzzlehttp/guzzle": "6.*",
